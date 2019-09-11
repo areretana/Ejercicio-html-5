@@ -1,0 +1,57 @@
+body{	
+background:url('images/aht.jpg') no-repeat center center fixed;
+margin: 0;
+padding: 0;
+color:white;
+font-family: sans-serif;
+}
+
+#wrapper{ 
+	width: 90%;
+	height: auto;
+	background: darkred;
+	margin: 0 auto;
+	padding: 12px;
+}
+
+#heading{	
+	font-size: 30px;
+}
+h1{
+}
+#designers{
+	}
+#one{
+	background: gray;
+	width: 28.2%;
+	height: auto;
+	margin: 12px;
+	padding: 12px;
+	display: inline-block;
+}
+#two{
+	background: black;
+	width: 28.2%;
+	height: auto;
+	margin: 12px;
+	padding: 12px;
+	display: inline-block;
+}
+#three{
+	background: navy;
+	width: 28.2%;
+	height: auto;
+	margin: 12px;
+	padding: 12px;
+	display: inline-block;
+}
+#featured-image{
+	background: blue;
+	width: 200px;
+	height: 200px;
+	margin: 0 auto;
+	border-radius: 200px;
+}
+h2{
+}
+
